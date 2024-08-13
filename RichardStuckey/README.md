@@ -1,2 +1,0 @@
-# RichardStuckey
-Portfolio of Work
