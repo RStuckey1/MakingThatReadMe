@@ -38,12 +38,10 @@ function renderLicenseSection(license) {
   if (license === 'GPL 3.0') {
     return 'GPL 3.0 License';
   }
-
 };
 
 function generateMarkdown(data) {
   return `# ${data.title}
-
 
 ## Badges
 ${renderLicenseBadge(data.license)}

@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-A way to make a professional readme for a project
+A way to make a professional readme for a project using inquire and Node in the command terminal.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ A way to make a professional readme for a project
 - [License](#license)
 
 ## Installation
-add npm inquirier and run js node
+add npm inquirier through the command line.
 
 ## Usage
 fill in the prompts

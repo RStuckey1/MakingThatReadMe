@@ -6,22 +6,22 @@ const questions = [
     {
         type: 'input',
         name: 'title',
-        message: 'What is the title of your project?'
+        message: 'What is the name of your project?'
     },
     {
         type: 'input',
         name: 'description',
-        message: 'Please provide a description of your project.'
+        message: 'Description of your project.'
     },
     {
         type: 'input',
         name: 'installation',
-        message: 'What are the steps required to install your project?'
+        message: 'How to install your project?'
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'Provide instructions and examples for use.'
+        message: 'Provide instructions for use.'
     },
     {
         type: 'input',
@@ -42,17 +42,17 @@ const questions = [
     {
         type: 'input',
         name: 'contributing',
-        message: 'If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so.'
+        message: 'If you would like other developers to contribute, add guidelines for how to do so.'
     },
     {
         type: 'input',
         name: 'tests',
-        message: 'Go the extra mile and write tests for your application. Then provide examples on how to run them.'
+        message: 'Write tests for your application. Then provide examples on how to run them.'
     },
     {
         type: 'input',
         name: 'questions',
-        message: 'If you have any questions, reach out to me at my profile.'
+        message: 'If you have any questions, reach out to me on github.'
     }
 ];
 
